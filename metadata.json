@@ -1,0 +1,5 @@
+{
+  "name": "Web Weaver IDE",
+  "description": "A sleek, real-time online compiler for HTML, CSS, and JavaScript. Featuring a modern, responsive interface with live preview, it allows developers to write, test, and visualize web code instantly.",
+  "requestFramePermissions": []
+}
