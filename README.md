@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# HtmlRunner – Online HTML Compiler & Code Editor
 
-# Run and deploy your AI Studio app
+**HtmlRunner** is a free and feature-rich online HTML code editor and compiler designed for web developers, learners, and hobbyists. It allows users to write HTML, CSS, and JavaScript code and instantly preview the output in real-time — with a unique **"Open in New Tab"** feature to view the full-screen design in a clean browser window.
 
-This contains everything you need to run your app locally.
+🔗 **Live Website:** https://htmlrunner.com
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sT03kgxz0syyQV4TvS9_pKSmMMTfeQwD
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- ✅ Real-time HTML/CSS/JavaScript editor  
+- ✅ "Open in New Tab" full-screen preview mode  
+- ✅ Clean, fast, and user-friendly interface  
+- ✅ No login or sign-up required  
+- ✅ Works fully online — no installation  
+- ✅ Beginner-friendly for students & coding learners
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 Why HtmlRunner?
+
+HtmlRunner is built to help web developers quickly test ideas, debug UI layouts, and learn web design faster. Whether you are practicing HTML basics or developing full responsive templates — HtmlRunner helps you **code & preview instantly**.
+
+---
+
+## 🧑‍💻 Usage
+
+1. Visit https://htmlrunner.com  
+2. Write your HTML/CSS/JS code in the editor  
+3. See live preview instantly  
+4. Click **"Open in New Tab"** to view the design on a separate screen
+
+---
+
+## 📌 Roadmap
+
+- [ ] Save projects in cloud  
+- [ ] Export code as ZIP  
+- [ ] Dark mode  
+- [ ] Collaborating in real-time  
+- [ ] Code templates for beginners  
+
+---
+
+## 🤝 Contribute
+
+We welcome feedback and suggestions!  
+Feel free to open issues or submit pull requests to improve HtmlRunner.  
+
+---
+
+## 📜 License
+
+MIT License  
+Copyright © HtmlRunner
+
+---
+
+🚀 Start building websites faster — **HtmlRunner.com**
